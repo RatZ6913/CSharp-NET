@@ -1,0 +1,14 @@
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\bin\Debug\net7.0\Bases.exe
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\bin\Debug\net7.0\Bases.deps.json
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\bin\Debug\net7.0\Bases.runtimeconfig.json
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\bin\Debug\net7.0\Bases.dll
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\bin\Debug\net7.0\Bases.pdb
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\Bases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\Bases.AssemblyInfoInputs.cache
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\Bases.AssemblyInfo.cs
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\Bases.csproj.CoreCompileInputs.cache
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\Bases.dll
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\refint\Bases.dll
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\Bases.pdb
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\Bases.genruntimeconfig.cache
+D:\Users\RatZ\Source\Repos\CSharp&NET\Cours\Bases\obj\Debug\net7.0\ref\Bases.dll
